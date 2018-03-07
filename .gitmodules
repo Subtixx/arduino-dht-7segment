@@ -1,0 +1,6 @@
+[submodule "SimpleTimer"]
+	path = SimpleTimer
+	url = https://github.com/schinken/SimpleTimer.git
+[submodule "DHT"]
+	path = DHT
+	url = https://github.com/adafruit/DHT-sensor-library.git
